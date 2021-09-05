@@ -1,0 +1,11 @@
+{
+  "name": "image_uploaded",
+  "version": "1.0.0",
+  "description": "This is for upload image with diffrent size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu Gupta",
+  "license": "ISC"
+}
